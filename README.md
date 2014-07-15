@@ -1,4 +1,4 @@
 remove_NV
 ===
 
-remove rows that contain #NV Values
+remove Excel rows that contain #NV Values
